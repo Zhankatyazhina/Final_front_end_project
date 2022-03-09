@@ -1,0 +1,1 @@
+gsap.fromTo(".form", {x: 2000}, {x: -350, duration: 1});
